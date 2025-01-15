@@ -1,7 +1,7 @@
 
 //export const BASE_URL = 'http://localhost:3000';
 
-export const BASE_URL = 'http://213.210.21.23';
+export const BASE_URL = 'http://213.210.21.23/api';
 
 
 export const loginUser = (DB_USER, DB_PASS) => {
